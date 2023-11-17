@@ -194,6 +194,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [language-resources](https://github.com/google/language-resources) :  Datasets and tools for basic natural language processing. 
 
+[Summarization](https://www.soffos.ai/playground?module=summarization) : Summarization tool
+
 [Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) ： Summarization Papers 
 
 [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) ： Search all Chinese NLP datasets, with common English NLP datasets
